@@ -3,3 +3,4 @@ payload:
   - '+.bfzycdn.com'
   - 'hkys2.cc'
   - '+.hkys2.cc'
+  - '+.yzzy31-play.com'
