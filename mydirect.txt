@@ -1,3 +1,5 @@
 payload:
   - '+.555dyy.com'
   - '+.bfzycdn.com'
+  - 'hkys2.cc'
+  - '+.hkys2.cc'
