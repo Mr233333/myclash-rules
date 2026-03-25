@@ -6,7 +6,7 @@ payload:
   - '+.yzzy31-play.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady34.com'
-  - '+.zhenbukady.com'
+  - '+.taopianplay1.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
