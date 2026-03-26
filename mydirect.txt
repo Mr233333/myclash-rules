@@ -5,7 +5,7 @@ payload:
   - '+.hkys2.cc'
   - '+.yzzy31-play.com'
   - '+.zhenbukady.com'
-  - '+.zhenbukady34.com'
+  - '+.zhenbuk34.com'
   - '+.taopianplay1.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
