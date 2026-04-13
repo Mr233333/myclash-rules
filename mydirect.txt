@@ -7,7 +7,7 @@ payload:
   - '+.zhenbukady.com'
   - '+.zhenbuka34.com'
   - '+.taopianplay1.com'
-  - '+.zhenbukady.com'
+  - '+.dyttlg.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
