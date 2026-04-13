@@ -10,7 +10,7 @@ payload:
   - '+.dyttlg.com'
   - '+.naifeiyy.com'
   - '+.naifei1.com'
-  - '+.vip.lz-cdn6.com'
+  - '+.lz-cdn6.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
