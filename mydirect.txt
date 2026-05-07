@@ -11,7 +11,7 @@ payload:
   - '+.naifeiyy.com'
   - '+.naifei1.com'
   - '+.lz-cdn6.com'
-  - '+.zhenbukady.com'
+  - '+.ffzy-play9.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
   - '+.zhenbukady.com'
